@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphamonline
 - 👀 I’m interested in Web and Mobile application development: Laravel | VueJs | Android (Java | Kotlin)
-- 🌱 I’m currently learning Kotlin | KVision
+- 🌱 I’m currently learning Kotlin multi-platform | KVision
 - 💞️ I’m looking to collaborate on web and mobile projects
 - 📫 How to reach me alphamonline@gmail.com
 
