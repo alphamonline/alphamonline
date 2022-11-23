@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphamonline
 - 👀 I’m interested in Web and Mobile application development: Laravel | Flutter | Android (Java | Kotlin)
-- 🌱 I’m currently learning Kotlin multi-platform | KVision
+- 🌱 I’m currently improving my front-end skills
 - 💞️ I’m looking to collaborate on web and mobile projects
 - 📫 How to reach me alphamonline@gmail.com
 
