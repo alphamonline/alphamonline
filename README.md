@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alphamonline
 - 👀 I’m interested in Web and Mobile application development: Laravel | Vue JS | Flutter | Android (Java | Kotlin)
-- 🌱 I’m currently improving my front-end skills
 - 💞️ I’m looking to collaborate on web and mobile projects
 - 📫 How to reach me alphamonline@gmail.com
 
